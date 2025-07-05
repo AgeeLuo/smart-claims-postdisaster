@@ -1,0 +1,6 @@
+[theme]
+primaryColor = "#4CAF50"            # 主要按鈕/強調色（綠色）
+backgroundColor = "#FFFFFF"         # 背景色（白色）
+secondaryBackgroundColor = "#F0F2F6" # 側邊欄背景（淺灰）
+textColor = "#262730"               # 文字顏色（幾乎黑）
+font = "sans serif"                 # 字體（可選 "sans serif", "serif", "monospace"）
