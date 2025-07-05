@@ -29,7 +29,7 @@ Working as an AI solution engineer for fintech clients and being passionate abou
 ## 📊 Example Use Case
 
 ![App Demo](demo.image.png)  
-*Above: Streamlit app showing flood-affected area (purple) overlaid with customer locations (yellow)*
+*Above: Streamlit app showing flood-affected area (purple) overlaid with impacted customer locations (green face)*
 
 👉 [View full-screen PDF](demo.pdf)
 
@@ -44,7 +44,7 @@ Working as an AI solution engineer for fintech clients and being passionate abou
 - **Sentinel-1** – radar satellite data used for flood detection
 - **Python** – for backend logic and automation
 
-👉 [View full code](app.py)
+#### 👉 [View full code](app.py)
 ---
 
 ## 📚 Data Sources
