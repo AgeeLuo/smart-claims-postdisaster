@@ -3,6 +3,9 @@
 A smart tool powered by GenAI and Satellite Imagery, designed to accelerate insurance claims by identifying impacted policyholders following a disaster.
 
 ---
+## 🧭 Background
+Working as an AI solution engineer for fintech clients and being passionate about using satellite imagery for social good, I’ve always wanted to bring both worlds together. Inspired by remote sensing providers’ insurtech use cases, I built this mini project to put that idea into practice.
+
 
 ## 🌟 Features
 
@@ -25,8 +28,10 @@ A smart tool powered by GenAI and Satellite Imagery, designed to accelerate insu
 
 ## 📊 Example Use Case
 
-![App Demo](demo_screenshot.png)  
-*Above: Streamlit app showing flood-affected area (blue) overlaid with customer locations (yellow)*
+![App Demo](demo.png)  
+*Above: Streamlit app showing flood-affected area (purple) overlaid with customer locations (yellow)*
+
+👉 [View full-screen PDF](demo.pdf)
 
 ---
 
@@ -50,7 +55,7 @@ A smart tool powered by GenAI and Satellite Imagery, designed to accelerate insu
 
 ## 🚧 Status
 
-This is a **prototype** and part of a mini project demonstrating how GenAI and Earth observation data can enhance the insurance industry’s response to natural disasters.
+This is a **prototype** and part of a mini project demonstrating how GenAI and earth observation data can enhance the insurance industry’s response to natural disasters.
 
 ---
 
