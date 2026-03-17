@@ -1,10 +1,10 @@
 # 🚀 Smart Insurance Claims After Disasters
 
-A smart tool powered by GenAI and Satellite Imagery, designed to accelerate insurance claims by identifying impacted policyholders following a disaster.
+A smart tool powered by GenAI and satellite imagery, designed to accelerate insurance claims by identifying impacted policyholders following a disaster.
 
 ---
 ## 🧭 Background
-Working as an AI solution engineer for fintech clients and being passionate about using satellite imagery for social good, I’ve always wanted to bring both worlds together. Inspired by remote sensing providers’ insurtech use cases, I built this mini project to put that idea into practice.
+Working as an AI solutions engineer for fintech clients and driven by a passion for using satellite imagery for social good, I have long aimed to bring these two domains together. Inspired by insurtech use cases from remote sensing providers, I built this mini project to put that idea into practice.
 
 
 ## 🌟 Features
@@ -62,9 +62,9 @@ This is a **prototype** and part of a mini project demonstrating how GenAI and e
 
 ## 📌 Future Work
 
-- Support for other disaster types (e.g. wildfire, earthquake)
+- Support for other disaster types (e.g., wildfire, earthquake)
 - Integration with real insurer databases
-- Add function of adjuster dispatch
+- Add functionality for adjuster dispatch
 
 ---
 
